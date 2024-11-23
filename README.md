@@ -1,4 +1,4 @@
-#Introducción 
+# Introducción 
 
 En este informe se llevará a cabo la recolección de información a partir de la experimentación y 
 análisis de una interpolación de los tiempos de ejecución de cuatro tipos de algoritmos de 
