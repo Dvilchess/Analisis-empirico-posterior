@@ -26,7 +26,7 @@ Para este algoritmo, se utilizará un rango aleatorio de 1 a 1000 utilizando la 
 además, se realizarán las mediciones de los tiempos de CPU y tiempo real desde un array tamaño 
 100 incrementando el tamaño hasta 10^7. 
 En la siguiente imagen hay un ejemplo del algoritmo bubble sort aplicado con un array de un 
-tamaño 100. (Fig.1) El cual será utilizado para realizar las mediciones y el análisis asintótico.
+tamaño 100. El cual será utilizado para realizar las mediciones y el análisis asintótico.
 
 2. Ordenamiento por selección:
 
@@ -39,7 +39,7 @@ Para este algoritmo, se utilizará un rango aleatorio de 1 a 1000 utilizando la 
 además, se realizarán las mediciones de los tiempos de CPU y tiempo real desde un array tamaño 
 100 incrementándolo hasta 10^7. 
 En la siguiente imagen hay un ejemplo del algoritmo bubble sort aplicado con un array de un 
-tamaño 100. (Fig.2) El cual será utilizado para realizar las mediciones y el análisis asintótico.
+tamaño 100. El cual será utilizado para realizar las mediciones y el análisis asintótico.
 
 3. Ordenamiento por Inserción directa: 
 
@@ -51,7 +51,7 @@ Para este algoritmo, se utilizará un rango aleatorio de 1 a 1000 utilizando la 
 además, se realizarán las mediciones de los tiempos de CPU y tiempo real desde un array tamaño 
 100 incrementándolo hasta 10^7. 
 En la siguiente imagen hay un ejemplo del algoritmo de ordenamiento por Inserción directa 
-aplicado con un array de un tamaño 100. (Fig.3) El cual será utilizado para realizar las mediciones y 
+aplicado con un array de un tamaño 100. El cual será utilizado para realizar las mediciones y 
 el análisis asintótico.
 
 
@@ -66,6 +66,6 @@ Para este algoritmo, se utilizará un rango aleatorio de 1 a 1000 utilizando la 
 Rand(), además, se realizarán las mediciones de los tiempos de CPU y tiempo real desde 
 un array tamaño 100 incrementándolo hasta 10^7. 
 En la siguiente imagen hay un ejemplo del algoritmo de ordenamiento por Inserción 
-directa aplicado con un array de un tamaño 100. (Fig.4) El cual será utilizado para realizar 
+directa aplicado con un array de un tamaño 100. El cual será utilizado para realizar 
 las mediciones y el análisis asintótico.
 
